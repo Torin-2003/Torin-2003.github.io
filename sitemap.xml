@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://torin-2003.github.io/p/Virtual-Credit-Card.html</loc>
-    
-    <lastmod>2025-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://torin-2003.github.io/p/hello-world.html</loc>
     
     <lastmod>2025-09-28</lastmod>
@@ -30,6 +21,15 @@
   
   <url>
     <loc>https://torin-2003.github.io/p/Code-receiving.html</loc>
+    
+    <lastmod>2025-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torin-2003.github.io/p/Virtual-Credit-Card.html</loc>
     
     <lastmod>2025-09-28</lastmod>
     
