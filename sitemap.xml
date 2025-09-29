@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://torin-2003.github.io/p/telegram-registration.html</loc>
+    
+    <lastmod>2025-09-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://torin-2003.github.io/p/Code-receiving.html</loc>
     
     <lastmod>2025-09-29</lastmod>
@@ -71,6 +80,13 @@
   
   <url>
     <loc>https://torin-2003.github.io/categories/%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/</loc>
+    <lastmod>2025-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://torin-2003.github.io/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
